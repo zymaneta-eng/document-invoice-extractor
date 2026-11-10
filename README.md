@@ -144,11 +144,11 @@ ruff check .
 
 ![дашборд: перший екран](screenshots/02_dash1_overview.png)
 
+![вивантажений файл, відкритий як таблиця](screenshots/02_dash1_export1.png)
+
 ![підсумок тестів](screenshots/01_tests.png)
 
-![довідка CLI](screenshots/04_cli_1.png)
-
-Усі скріншоти (5): [screenshots/](screenshots/README.md)
+Усі скріншоти (7): [screenshots/](screenshots/README.md)
 
 
 ---
